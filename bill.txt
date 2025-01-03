@@ -1,0 +1,5 @@
+customer name :Punitha
+No of quantity: 2
+Medicines buys and total: Para,Pain killer
+Rs:34,78
+Totoal price: 112
